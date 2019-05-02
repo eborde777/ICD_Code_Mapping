@@ -1,0 +1,39 @@
+table{
+  overflow-y:scroll;
+   height:300px;
+   display:block;
+}
+table.GeneratedTable {
+  width: 100%;
+  background-color: #e1ece4;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: #c0c0c0;
+  border-style: solid;
+  color: #2a2a2a;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 1px;
+  border-color: #c0c0c0;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #57b34d;
+}
+
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}

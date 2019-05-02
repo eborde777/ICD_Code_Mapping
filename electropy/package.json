@@ -1,0 +1,21 @@
+{
+  "name": "electropy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.11",
+    "express": "^4.16.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "python-shell": "^1.0.6"
+  }
+}
